@@ -1,4 +1,4 @@
-// >>>>>>>>>>>>>>>>// Task 1<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 1<<<<<<<<<<<<<<<<<<<<<<<<
 // Create a function that takes a string as input and returns the reversed version of the string without using the built-in reverse() method.
 
 function reverseString(inputString) {
@@ -15,7 +15,7 @@ const input = "Hello, world!";
 const reversed = reverseString(input);
 console.log(reversed); 
 
-// >>>>>>>>>>>>>>>>// Task 2<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 2<<<<<<<<<<<<<<<<<<<<<<<<
 // Create a function that takes an array of numbers as input and returns the sum of all positive numbers in the array. 
 
 function sumOfPositiveNumbers(numbers) {
@@ -36,7 +36,7 @@ console.log(positiveSum);
 
 
 
-// >>>>>>>>>>>>>>>>// Task 3<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 3<<<<<<<<<<<<<<<<<<<<<<<<
 // Write a JavaScript program to find the most frequent element in an array and return it.
 
 
@@ -73,7 +73,7 @@ console.log("Most frequent element:", mostFrequent);
 
 
 
-// >>>>>>>>>>>>>>>>// Task 4<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 4<<<<<<<<<<<<<<<<<<<<<<<<
 // Create a function that takes a sorted array of numbers and a target value as input. The function should find two numbers in the array that add up to the target value. Return an array containing the indices of the two numbers.
 
 function findTwoNumbersWithSum(sortedArray, target) {
@@ -109,7 +109,7 @@ if (indices.length === 2) {
 
 
 
-// >>>>>>>>>>>>>>>>// Task 5<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 5<<<<<<<<<<<<<<<<<<<<<<<<
 // Create a program that generates a random password of a specified length. The password should include a mix of uppercase letters, lowercase letters, numbers, and special characters.
 
 function generateRandomPassword(length) {
@@ -136,7 +136,7 @@ console.log(randomPassword);
 
 
 
-// >>>>>>>>>>>>>>>>// Task 6<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 6<<<<<<<<<<<<<<<<<<<<<<<<
 // Implement a function that converts a Roman numeral to an integer. The function should take a Roman numeral string (e.g., "IX" or "XXI") as input and return the corresponding integer value.
 
 
@@ -177,7 +177,7 @@ console.log(romanToInt("XC"));
 console.log(romanToInt("CXLIV"));
 
 
-// >>>>>>>>>>>>>>>>// Task 7<<<<<<<<<<<<<<<<<<<<<<<<
+**// >>>>>>>>>>>>>>>>// Task 7<<<<<<<<<<<<<<<<<<<<<<<<
 // Implement a JavaScript function to find the second smallest element in an array of numbers. The function should return the second smallest number.
 
 function findSecondSmallest(arr) {
